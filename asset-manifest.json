@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ChanMyaeOo-Dev/zodiac/static/css/main.1db03575.css",
+    "main.js": "/ChanMyaeOo-Dev/zodiac/static/js/main.da78f3cc.js",
+    "static/media/primeicons.svg": "/ChanMyaeOo-Dev/zodiac/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/ChanMyaeOo-Dev/zodiac/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/ChanMyaeOo-Dev/zodiac/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/primeicons.eot": "/ChanMyaeOo-Dev/zodiac/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/ChanMyaeOo-Dev/zodiac/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/ChanMyaeOo-Dev/zodiac/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/ChanMyaeOo-Dev/zodiac/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/ChanMyaeOo-Dev/zodiac/index.html",
+    "main.1db03575.css.map": "/ChanMyaeOo-Dev/zodiac/static/css/main.1db03575.css.map",
+    "main.da78f3cc.js.map": "/ChanMyaeOo-Dev/zodiac/static/js/main.da78f3cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db03575.css",
+    "static/js/main.da78f3cc.js"
+  ]
+}
